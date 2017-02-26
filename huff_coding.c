@@ -9,6 +9,7 @@ Assignment	: Huffman Codec
 #include <string.h>
 #include <unistd.h>
 
+
 #define ERR -1
 #define SUCCESS 0
 #define NUM_SYM 256
